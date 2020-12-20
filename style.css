@@ -1,0 +1,14 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+}
+
+.carousel-item{
+	height:895px;
+	margin-top:-140px;
+}
+
+#uji{
+    font-size: 1.5rem;
+}
