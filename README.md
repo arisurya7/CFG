@@ -1,2 +1,2 @@
 # CFG
-CFG
+This repository project is the result of an assignment for the Theory of Language and Automata courses. This project is made in the form of a website by implementing the Cocke–Younger–Kasami algorithm (or also called the CYK algorithm, or the CKY algorithm) is a parsing algorithm for Context Free Grammar (CFG). This website is implemented to validate the Balinese grammar of the entered sentence. The website is made using PHP and rules from Balinese grammar are stored in ckytest.sql (MySQL).
